@@ -1,5 +1,5 @@
 # FROM golang
-FROM golang:1.11.1-stretch
+FROM golang:1.11.2-stretch
 
 # Set timezone to Asia/Tokyo
 ENV TZ /usr/share/zoneinfo/Asia/Tokyo
